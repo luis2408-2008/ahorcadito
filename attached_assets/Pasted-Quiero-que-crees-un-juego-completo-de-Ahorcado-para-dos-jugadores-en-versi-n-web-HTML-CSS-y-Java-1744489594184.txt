@@ -1,0 +1,53 @@
+Quiero que crees un juego completo de “Ahorcado para dos jugadores” en versión web (HTML, CSS y JavaScript), con todas las funcionalidades necesarias para una experiencia fluida, profesional y visualmente hermosa. El enfoque debe ser tanto en la lógica como en el diseño. Usa Tailwind CSS con DaisyUI para lograr una interfaz moderna, responsiva y muy atractiva.
+
+Funcionalidades del juego:
+
+1. Sistema de Usuarios:
+	•	Registro de jugadores con nombre o apodo.
+	•	Validación para evitar nombres repetidos.
+	•	Almacenamiento temporal de datos de los jugadores durante la sesión.
+
+2. Selección de Roles:
+	•	Un jugador crea la palabra secreta (Jugador 1).
+	•	El otro jugador intenta adivinarla (Jugador 2).
+	•	Roles se intercambian automáticamente en cada ronda.
+
+3. Diseño e Interfaz:
+	•	Interfaz completamente hermosa y moderna usando Tailwind CSS con DaisyUI.
+	•	Tema oscuro/claro con botón para cambiarlo.
+	•	Diseño responsive para que se vea perfecto en escritorio, tablet o móvil.
+	•	Animaciones suaves, botones estilizados, inputs visualmente atractivos, modales emergentes para instrucciones o resultados.
+	•	Ilustraciones o gráficos atractivos para representar al ahorcado en cada fase del juego.
+
+4. Interacción del Juego:
+	•	Campo oculto para ingresar la palabra secreta.
+	•	Campo para ingresar letras adivinadas.
+	•	Visualización clara de:
+	•	Letras adivinadas correctamente.
+	•	Letras fallidas.
+	•	Estado del ahorcado (en imagen o en estilo gráfico).
+	•	Número de intentos restantes.
+
+5. Puntaje y Rondas:
+	•	Sistema de puntuación dinámico:
+	•	+10 puntos por victoria.
+	•	+2 por cada letra correcta.
+	•	-1 por letra incorrecta.
+	•	Tabla de puntajes entre rondas.
+	•	Opción de jugar nueva ronda con mismos jugadores o reiniciar todo.
+
+6. Extras y Pulido Visual:
+	•	Música de fondo opcional y efectos de sonido al ganar, perder o adivinar letra.
+	•	Modal con instrucciones detalladas y visuales.
+	•	Categorías de palabras (seleccionables): animales, comida, países, películas, etc.
+	•	Dificultades seleccionables: fácil (8 vidas), medio (6), difícil (4).
+	•	Mostrar estadísticas al final de cada ronda.
+
+7. Requisitos Técnicos:
+	•	Todo debe estar hecho en HTML, JavaScript y CSS (Tailwind + DaisyUI).
+	•	Estructura del código limpia, comentada y fácil de modificar.
+	•	Que el diseño destaque por ser moderno, elegante y sorprendente visualmente.
+
+⸻
+
+Resumen: Quiero un juego de ahorcado para dos jugadores, funcional y completamente bello. Que se vea como una app profesional, divertida, muy visual, jugable desde cualquier navegador. Usa DaisyUI con Tailwind CSS para lograr un diseño alucinante, moderno y bien animado. Prioriza tanto la lógica como la estética. ¡Hazlo como si fuera una joya de interfaz y jugabilidad web!
